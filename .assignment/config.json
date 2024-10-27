@@ -1,13 +1,13 @@
 {
-  "name": "第一次作业",
-  "description": "第一次作业的描述，详细查看仓库根目录的 README.md",
+  "name": "Rust练习-进阶",
+  "description": "详细查看仓库根目录的 README.md",
   "type": "OS",
   "status": "open",
-  "id": "week-1",
+  "id": "week-2",
   "version": 1,
   "config_version": 1,
   "auto_grade": {
-    "enable": true,
+    "enable": false,
     "upload_output": true,
     "steps": [
       {
